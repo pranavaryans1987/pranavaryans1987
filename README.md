@@ -16,15 +16,15 @@
 - 💼 any freelance work? do reach, [email](mailto:pranavtrivedi1304@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
-**languages and tools:**  
-
+<p align="center">**languages and tools:**  
+<p align="center">
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
+<p align="center">
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
+<p align="center">
 <a href="https://www.buymeacoffee.com/pranavaryans" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pranavaryans1987&show_icons=true&theme=gotham" alt="pranavaryans1987" />
