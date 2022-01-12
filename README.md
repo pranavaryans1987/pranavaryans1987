@@ -1,4 +1,3 @@
-<p align="center">
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <p align="center"><a href="https://twitter.com/pranavaryans">
   <img align="left" alt="Pranav Trivedi | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -12,7 +11,6 @@
 
 <p align="center">i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
- <p align="center"> 
 - 💼 any freelance work? do reach, [email](mailto:pranavtrivedi1304@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
