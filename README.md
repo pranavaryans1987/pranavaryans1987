@@ -4,7 +4,7 @@
   <img align="left" alt="Pranav Trivedi | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
-<p align="center">![](https://visitor-badge.glitch.me/badge?page_id=pranavaryans1987.PGDCA)
+![](https://visitor-badge.glitch.me/badge?page_id=pranavaryans1987.PGDCA)
 
 <br />
 
