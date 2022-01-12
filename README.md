@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there
 ### 🔭 I’m currently working as a Lecturer At Geetanjali College (Rajkot)
 ### 💬 Ask me about PHP / ASP.Net / Android OS Customisations
 
