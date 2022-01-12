@@ -1,18 +1,18 @@
 <p align="center">
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://twitter.com/pranavaryans">
+<p align="center"><a href="https://twitter.com/pranavaryans">
   <img align="left" alt="Pranav Trivedi | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=pranavaryans1987.PGDCA)
+<p align="center">![](https://visitor-badge.glitch.me/badge?page_id=pranavaryans1987.PGDCA)
 
 <br />
 
-hi, i'm [Pranav Trivedi](https://pranavtrivedi.in/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+<p align="center">hi, i'm [Pranav Trivedi](https://pranavtrivedi.in/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+<p align="center">i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
-  
+ <p align="center"> 
 - 💼 any freelance work? do reach, [email](mailto:pranavtrivedi1304@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
