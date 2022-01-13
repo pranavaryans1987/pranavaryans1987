@@ -1,32 +1,59 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<p align="center"><a href="https://twitter.com/pranavaryans">
-  <img align="left" alt="Pranav Trivedi | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
+<h1 align="center">
+  <b>Prof. Pranav Trivedi</b>
+</h1>
 
-![](https://visitor-badge.glitch.me/badge?page_id=pranavaryans1987.PGDCA)
+Heya! I'm Prof. Pranav Trivedi, I.T Professor currently living in Rajkot, India.
 
-<br />
+<br>
 
-<p align="center">hi, i'm [Pranav Trivedi](https://pranavtrivedi.in/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
+  <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
+</div>
+</p>
 
-<p align="center">i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+```python
+class pranavaryans():
+    
+  def __init__(self):
+    self.name = "Prof. Pranav Trivedi";
+    self.username = "pranavaryans1987";
+    self.location = "Rajkot, India";
+    self.twitter = "@pranavaryans";
+    self.web = "https://pranavtrivedi.in";
+  
+  def __str__(self):
+    return self.name
 
-- 💼 any freelance work? do reach, [email](mailto:pranavtrivedi1304@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+if __name__ == '__main__':
+    me = pranavaryans()
+```
 
-<p align="center">**languages and tools:**  
-<p align="center">
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<p align="center">
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-<p align="center">
-<a href="https://www.buymeacoffee.com/pranavaryans" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<div align="center">
+  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
+    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+  </a>
+</div>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pranavaryans1987&show_icons=true&theme=gotham" alt="pranavaryans1987" />
+<!--
+<div align="center">
+  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
+    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
+  </a>
+</div>
+-->
 
+## My Statistics
 
+<br/>
+<p align="left">
+  <a href="https://pranavtrivedi.in/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=pranavaryans1987&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavaryans1987&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
 
-
+[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=pranavaryans1987&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://pranavtrivedi.in)
