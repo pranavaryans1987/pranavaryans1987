@@ -31,20 +31,6 @@ if __name__ == '__main__':
     me = pranavaryans()
 ```
 
-<div align="center">
-  <a href="https://open.spotify.com/search/man%20with%20the%20plan">
-    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true">
-  </a>
-</div>
-
-<!--
-<div align="center">
-  <a href="https://open.spotify.com/search/man%20with%20the%20plan">
-    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true" width="240px">
-  </a>
-</div>
--->
-
 <h1 align="center">My Statistics</h1>
 
 <br/>
